@@ -96,7 +96,7 @@ form input {
     font-weight: bold;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 600px) {
     .img {  
         height: 80%;
         width: 50%;
@@ -118,6 +118,7 @@ form input {
 
     .linkslogo a {
         margin-top: .5em;
+        display: block;
     }
 
     form {
@@ -131,17 +132,14 @@ form input {
         width: 18%;
         margin-top: 1em;
     }
-    
+
     .button {
-        background-color: white;
-        width: 50%;
-        height: 40%;
-        font-weight: bold;
-        
+        width: 60%;
     }
+    
 }
 
-@media (max-width: 450px) {
+@media (max-width: 420px) {
     .img {  
         height: 80%;
         width: 50%;
@@ -177,11 +175,5 @@ form input {
         margin-top: 1em;
     }
     
-    .button {
-        background-color: white;
-        width: 50%;
-        height: 40%;
-        font-weight: bold;
-        
-    }
+
 }
