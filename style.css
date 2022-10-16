@@ -173,12 +173,58 @@ form input {
     form input {
         margin-left: 1em;
         margin-top: 1%;
-        width: 18%;
+        width: 16%;
         margin-top: 1em;
+        font-size: 10px;
     }
 
     .button {
         color: black;
+    }
+    
+
+}
+
+@media (max-width: 370px) {
+    .img {  
+        height: 80%;
+        width: 50%;
+        left: -3em;
+    }
+
+    .menu {
+        margin-top: 2.7em;
+    }
+
+    .menu a {
+        font-size: .4em;
+        margin-left: -6em;
+    }
+
+    .linkslogo {
+        margin-top: 2.1em;
+    }
+
+    .linkslogo a {
+        margin-top: .5em;
+    }
+
+    form {
+        margin-top: 0em;
+        
+    }
+
+    form input {
+        margin-left: 1em;
+        margin-top: 1%;
+        width: 13%;
+        margin-top: 1em;
+        font-size: 8px;
+    }
+
+    .button {
+        color: black;
+        width: 50%;
     }
     
 
