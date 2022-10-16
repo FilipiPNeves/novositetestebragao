@@ -94,6 +94,7 @@ form input {
     width: 10%;
     height: 40%;
     font-weight: bold;
+    color: black;
 }
 
 @media (max-width: 600px) {
@@ -135,6 +136,7 @@ form input {
 
     .button {
         width: 60%;
+        
     }
     
 }
