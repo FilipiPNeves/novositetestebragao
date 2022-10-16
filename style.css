@@ -136,7 +136,7 @@ form input {
 
     .button {
         width: 60%;
-        
+        color: black;
     }
     
 }
@@ -175,6 +175,10 @@ form input {
         margin-top: 1%;
         width: 18%;
         margin-top: 1em;
+    }
+
+    .button {
+        color: black;
     }
     
 
